@@ -202,7 +202,7 @@
     },
     "tool-cmake": {
       "optional": true,
-      "version": "~3.15.0"
+      "version": "~3.16.0"
     },
     "tool-dtc": {
       "optional": true,
