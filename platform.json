@@ -85,8 +85,8 @@
         "type": "framework",
         "optional": true,
         "version": "https://github.com/prices/ArduinoCore-samd.git"
-      },
-      "framework-cmsis": {
+    },
+    "framework-cmsis": {
       "type": "framework",
       "optional": true,
       "version": "~1.40500.0"
