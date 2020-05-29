@@ -69,7 +69,8 @@ env.Append(
 
     CPPDEFINES=[
         ("ARDUINO", 10805),
-        ("F_CPU", "$BOARD_F_CPU")
+        ("F_CPU", "$BOARD_F_CPU"),
+        "USBCON"
     ],
 
     CPPPATH=[
